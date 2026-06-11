@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**RagnaJaegerjaquez/RagnaJaegerjaquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Taha 👋
 
-Here are some ideas to get you started:
+I am an Artificial Intelligence and Machine Learning Engineering student at Hitit University, passionate about training intelligent systems and solving complex computational problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Areas of Interest
+- **Deep Learning:** CNNs, Multi-Task Learning, and Pattern Recognition.
+- **Reinforcement Learning:** Intelligent agents and decision-making systems.
+- **Embedded AI & IoT:** Integrating ML models into microcontrollers (nRF, Raspberry Pi Pico).
+- **Network Programming:** Socket programming and multi-threaded Python applications.
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C++
+- **Frameworks/Libs:** TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, Joblib
+- **Hardware/Tools:** Git, GitHub, Raspberry Pi Pico 2W, Nordic nRF7002DK
+
+📫 **How to reach me:** [Email/LinkedIn Linkinizi Buraya Koyabilirsiniz]
