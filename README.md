@@ -15,4 +15,6 @@ I am an Artificial Intelligence and Machine Learning Engineering student at Hiti
 - **Frameworks/Libs:** TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, Joblib
 - **Hardware/Tools:** Git, GitHub, Raspberry Pi Pico 2W, Nordic nRF7002DK
 
-📫 **How to reach me:** [Email/LinkedIn Linkinizi Buraya Koyabilirsiniz]
+📫 **How to reach me:**
+via E-mail: tahauguducu@gmail.com
+via LinkedIn: https://www.linkedin.com/in/taha-üğüdücü-099766391/
